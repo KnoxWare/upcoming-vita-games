@@ -1,10 +1,10 @@
-# Down here is a empty template for adding a new game just delete the # on every row. 
+# Down here is a empty template for adding a new game just delete the # on every row.
 # It is best to add the supmission right below here so de website will show latest supmisons first
-# Upload your image to imgur.com and copy the "Direct Link" (the one with the file extention) please never delete this upload! 
-# Make sure the text is not longer then 20 words and has no : ! 
+# Upload your image to imgur.com and copy the "Direct Link" (the one with the file extention) please never delete this upload!
+# Make sure the text is not longer then 20 words and has no : !
 #- name: Don't use : symbol!
 #  about: Don't use : symbol!
-#  gerne: Only one gerne! 
+#  gerne: Only one gerne!
 #  image: imgur.com/ABC123.jpg|.gif(no .png) please make sure images are not larger then 600px wide!
 #  gamewebsite: http://domain.com
 #  devwebsite: http://domain.com
@@ -12,14 +12,43 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
+- name: Y2k
+  about: Y2k is a 3D turn based RPG that revolves around a character named, Alex Eggleston. Alex is trying to solve a mysterious murder of a young woman.
+  gerne: Turn-Based RPG
+  image: http://i.imgur.com/aXUWw31.png
+  gamewebsite: https://ackkstudios.wordpress.com/project-y2k/
+  devwebsite: https://ackkstudios.wordpress.com/
+  dateadd: 2015-02-20
+  releasedate: TBA 2015
+  western: true
+
+- name: Cosmophony
+  about: Cosmophony is an intense music based rail-shooter that will test your reflexes and listening skills. Find your way in the levels built around the Drum & Bass beats of DJ Salaryman.
+  gerne: Rail Shooter
+  image: http://i.imgur.com/gCCGPHp.jpg
+  gamewebsite: http://www.bento-studio.com/#cosmophony
+  devwebsite: http://www.bento-studio.com
+  releasedate: TBA 2015
+  western: true
+
+- name: Rocket Birds 2 Evolution
+  about: Sequel to Rocketbirds Hardboiled Chicken.
+  gerne: Action Shooter
+  image: http://i.imgur.com/MM78jYL.png
+  gamewebsite: http://rocketbirds.com/
+  devwebsite: http://www.ratloop.com/
+  dateadd: 2015-02-20
+  releasedate: TBA 2015
+  western: true
+
 - name: Danganronpa Another Episode Ultra Despair Girls
-  about: After the horrors have ended at Hope’s Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa™ Another Episode Ultra Despair Girls, the pre-sequel to the highly popular mystery adventure game Danganronpa™ 2 Goodbye Despair, is coming to North America and Europe on the PlayStation®Vita this fall. 
+  about: After the horrors have ended at Hope’s Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa™ Another Episode Ultra Despair Girls, the pre-sequel to the highly popular mystery adventure game Danganronpa™ 2 Goodbye Despair, is coming to North America and Europe on the PlayStation®Vita this fall.
   gerne: Adventure
   image: http://i.imgur.com/ghpTRVP.jpeg
   gamewebsite: http://nisamerica.com/index.php?nav=g
   devwebsite: http://nisamerica.com
   dateadd: 2015-02-20
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Rainbow Skies
@@ -29,7 +58,7 @@
   gamewebsite: http://www.rainbow-skies.com/
   devwebsite: http://www.eastasiasoft.com/index.php/games/playstationrvita/rainbow-skies
   dateadd: 2015-02-19
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Risk of Rain
@@ -39,17 +68,17 @@
   gamewebsite: http://riskofraingame.com
   devwebsite: http://www.chucklefish.org
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Shantae Half-Genie Hero
   about: Shantae Half-Genie Hero continues the tradition of action/adventure in the spirit of Metroid, Castlevania, and the Legend of Zelda.
   gerne: Action Adventure
   image: http://i.imgur.com/eSdX5Hk.jpg
-  gamewebsite: http://wayforward.com/games/shantae-half-genie-hero/  
+  gamewebsite: http://wayforward.com/games/shantae-half-genie-hero/
   devwebsite: http://wayforward.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Dragon Fin Soup
@@ -59,7 +88,7 @@
   gamewebsite: http://dragonfinsoup.com/
   devwebsite: http://grimm-bros.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Hyper Light Drifter
@@ -69,77 +98,77 @@
   gamewebsite: http://www.heart-machine.com/
   devwebsite: http://www.heart-machine.com/home1/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Hand of Fate
-  about: Inspired by tarot and fantasy, all bets are off as you create your own journey by building a collection of cards used to deal out a boardgame-like dungeon teeming with enemies, treasure and adventure. 
+  about: Inspired by tarot and fantasy, all bets are off as you create your own journey by building a collection of cards used to deal out a boardgame-like dungeon teeming with enemies, treasure and adventure.
   gerne: Deck building/Action RPG
   image: http://i.imgur.com/gAxzu19.jpeg
   gamewebsite: http://www.defiantdev.com/hofpress/
   devwebsite: http://www.defiantdev.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Titan Souls
   about: Explore the ancient ruins of your forefathers and uncover more than twenty extraordinary and unique titans, each with their own savage attacks and hidden weakness.
   gerne: RPG
   image: http://i.imgur.com/xqTSHwi.jpeg
-  gamewebsite: http://www.devolverdigital.com/games/view/titan-souls  
+  gamewebsite: http://www.devolverdigital.com/games/view/titan-souls
   devwebsite: http://acidnerve.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Hyperdevotion Noire Goddess Black Heart
   about: The game features chibi versions of the original Hyperdimension Neptunia characters which battle against enemies on a tactical grid map.
   gerne: RPG
-  image: http://i.imgur.com/7MQqZMV.jpeg 
+  image: http://i.imgur.com/7MQqZMV.jpeg
   gamewebsite: http://ideafintl.com/noire/
   devwebsite: http://ideafintl.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: htoL#Niq The Firefly Diary
-  about: htoL#NiQ, is a 2014 video game created by Japanese game developer Nippon Ichi Software exclusively for the PlayStation Vita. 
+  about: htoL#NiQ, is a 2014 video game created by Japanese game developer Nippon Ichi Software exclusively for the PlayStation Vita.
   gerne: Adventure
   image: http://i.imgur.com/ycMY684.jpeg
   gamewebsite: http://nisamerica.com/games/htoL-the-firefly-diary/
   devwebsite: http://nisamerica.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: LEGO Ninjago Shadow of Ronin
-  about: Players will be able to control Kai, Zane, Cole, Jay, Lloyd, and more in their quest to defeat Ronin. 
+  about: Players will be able to control Kai, Zane, Cole, Jay, Lloyd, and more in their quest to defeat Ronin.
   gerne: Adventure
   image: http://i.imgur.com/NKo7xLV.jpeg
   gamewebsite: http://www.ttgames.com/games/
   devwebsite: http://www.ttgames.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Tokyo Twilight Ghost Hunters
-  about: Gate Keepers is a publishing company that specializes in the occult. Our story's heroes are all employed by the company. 
+  about: Gate Keepers is a publishing company that specializes in the occult. Our story's heroes are all employed by the company.
   gerne: Adventure
   image: http://i.imgur.com/DoXbj1Q.jpeg
   gamewebsite: http://www.nisamerica.com/games/tokyotwilightghosthunters/
   devwebsite: http://www.nisamerica.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Toukiden Kiwami
-  about: Three months after the battle to prevent another Awakening... The village of Utakata enjoys an uneasy peace. 
+  about: Three months after the battle to prevent another Awakening... The village of Utakata enjoys an uneasy peace.
   gerne: RPG
   image: http://i.imgur.com/0ImFwkp.jpeg
   gamewebsite: http://toukiden.eu/kiwami/
   devwebsite: http://www.koeitecmoeurope.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: MLB 15 THE SHOW
@@ -149,7 +178,7 @@
   gamewebsite: http://www.playstation.com/en-us/games/mlb-15-the-show-ps4
   devwebsite: http://www.worldwidestudios.net/sandiego
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: The Swindle
@@ -159,17 +188,17 @@
   gamewebsite: http://www.sizefivegames.com/games/theswindle/gi
   devwebsite: http://www.sizefivegames.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: OlliOlli 2 Welcome to Olliwood
   about: Our iconic ‘skater’ is going all green-screen and getting radical at Olliwood Studios, plucking the player from the street and dropping him squarely in the middle of the Big Screen’s most bodacious cinematic locations.
-  gerne: 2D 
+  gerne: 2D
   image: http://i.imgur.com/kw48nuc.jpeg
   gamewebsite: http://www.roll7.co.uk/#!olliolli2/ccko
   devwebsite: http://www.roll7.co.uk
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Ascension Chronicle of the Godslayer
@@ -179,7 +208,7 @@
   gamewebsite: http://ascensiongame.com
   devwebsite: http://stoneblade.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Baboon!
@@ -189,7 +218,7 @@
   gamewebsite: http://www.relevovideogames.com/baboon_psvita/
   devwebsite: http://www.relevovideogames.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Bodycheck
@@ -199,17 +228,17 @@
   gamewebsite: http://bodycheckgame.com
   devwebsite: http://ludometrics.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Death Ray Manta
-  about: Death Ray Manta (or DRM:The Videogame, no… not that sort of DRM!) is a videogame. 
+  about: Death Ray Manta (or DRM:The Videogame, no… not that sort of DRM!) is a videogame.
   gerne: Shooter
   image: http://i.imgur.com/zL2xb63.jpeg
   gamewebsite: http://www.psychicparrotgames.com/drm/
   devwebsite: http://www.psychicparrotgames.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Death Tales
@@ -219,7 +248,7 @@
   gamewebsite: http://www.ninetalesdigital.com/deathtales/
   devwebsite: http://www.ninetalesdigital.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Heroes of Loot
@@ -229,7 +258,7 @@
   gamewebsite: http://www.orangepixel.net/heroesofloot/
   devwebsite: http://www.orangepixel.net/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: HTR+ Slot Car Simulation
@@ -239,7 +268,7 @@
   gamewebsite: http://www.libredia.com/component/k2/item/148-htr%20-high-tech-racing
   devwebsite: http://www.qubyteinteractive.com/site/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Imagination is the Only Escape
@@ -249,7 +278,7 @@
   gamewebsite: https://twitter.com/lucbernard
   devwebsite: https://twitter.com/lucbernard
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Monster Bag
@@ -259,17 +288,17 @@
   gamewebsite: https://www.youtube.com/watch?v=0WYwgbxJLsE&feature=youtu.be
   devwebsite: http://iguanabee.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Octodad Dadliest Catch
   about: Octodad Dadliest Catch is the sequel to the splash hit, Octodad! This time, our cephaloprotagonist has gotten himself in a bind between his wife’s mounting mistrust, and a disastrous trip to the local aquarium! Are you dad enough to control the titular octopus father as he strives to hide his nautical nature from his family while keeping his tangled tentacles intact?
-  gerne: Puzzle 
+  gerne: Puzzle
   image: http://i.imgur.com/9R58H0G.jpeg
   gamewebsite: http://octodadgame.com/#about
   devwebsite: http://octodadgame.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Operation Abyss New Tokyo Legacy
@@ -279,7 +308,7 @@
   gamewebsite: http://nisamerica.com/games/operation-abyss-new-tokyo-legacy/home.html
   devwebsite: http://nisamerica.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Oreshika
@@ -289,7 +318,7 @@
   gamewebsite: http://www.jp.playstation.com/scej/title/oreshika/2/
   devwebsite: http://playstation.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Persona 4 Dancing All Night
@@ -299,7 +328,7 @@
   gamewebsite: http://www.atlus.com/p4dan/
   devwebsite: http://www.atlus.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Pier Solar & the Great Architect
@@ -309,7 +338,7 @@
   gamewebsite: http://www.piersolar.com
   devwebsite: http://www.magicalgamefactory.com/en/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Resident Evil Revelations 2
@@ -319,7 +348,7 @@
   gamewebsite: http://www.residentevil.net/en/
   devwebsite: http://www.capcom.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Severed
@@ -329,7 +358,7 @@
   gamewebsite: http://severedgame.com
   devwebsite: http://drinkboxstudios.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Sketchcross
@@ -339,17 +368,17 @@
   gamewebsite: http://sketchcross.com
   devwebsite: http://www.spikyfishgames.com/SpikyFishGames/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Soldner X2 Final Prototype
-  about: Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. 
+  about: Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind.
   gerne: Action
   image: http://i.imgur.com/iL4YACg.jpeg
   gamewebsite: http://www.soldner-x.com/sx2/
   devwebsite: http://www.eastasiasoft.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Son of Scoregasm
@@ -359,7 +388,7 @@
   gamewebsite: http://charliesgames.com/tempsite/games/scoregasm.html
   devwebsite: http://charliesgames.com/tempsite/index.html
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Spongebob Heropants
@@ -369,7 +398,7 @@
   gamewebsite: http://www.activision.com/au/en/games/spongebob/spongebob-hero-pants
   devwebsite: http://www.bhvr.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Squares
@@ -379,7 +408,7 @@
   gamewebsite: http://leapgs.com/squares-game.html
   devwebsite: http://leapgs.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Towerfall Ascension
@@ -389,7 +418,7 @@
   gamewebsite: http://www.towerfall-game.com
   devwebsite: http://www.mattmakesgames.com
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Dengeki Bunko Fighting Climax
@@ -399,7 +428,7 @@
   gamewebsite: http://climax.sega.jp
   devwebsite: http://e56.info
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Steins;Gate
@@ -409,7 +438,7 @@
   gamewebsite: http://www.steinsgategame.com/
   devwebsite: http://www.pqube.co.uk/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Supermagical
@@ -419,7 +448,7 @@
   gamewebsite: http://supermagical.supermegateam.com
   devwebsite: http://supermegateam.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Alone With You
@@ -429,7 +458,7 @@
   gamewebsite: http://www.alonewithyougame.com
   devwebsite: http://www.benjaminrivers.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Assault Android Cactus
@@ -439,27 +468,27 @@
   gamewebsite: http://www.assaultandroidcactus.com/p/landing.html
   devwebsite: http://www.witchbeam.com.au
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Axiom Verge
-  about: Axiom Verge is a retro-styled 2D “metroidvania” action-adventure, inspired by such classics as Rygar, Contra, Bionic Commando, Blaster Master, and, of course, Metroid. 
+  about: Axiom Verge is a retro-styled 2D “metroidvania” action-adventure, inspired by such classics as Rygar, Contra, Bionic Commando, Blaster Master, and, of course, Metroid.
   gerne: Action
   image: http://i.imgur.com/30hgma1.gif
   gamewebsite: http://www.axiomverge.com
   devwebsite: http://www.axiomverge.com/author/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Aztez
-  about: In Aztez, you expand and maintain the Aztec empire through turn-based strategy, while managing violent outbreaks via real-time beat 'em up sequences. 
+  about: In Aztez, you expand and maintain the Aztec empire through turn-based strategy, while managing violent outbreaks via real-time beat 'em up sequences.
   gerne: Strategy
   image: http://i.imgur.com/w3I7H4q.gif
   gamewebsite: http://aztez.com
   devwebsite: http://teamcolorblind.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Bastion
@@ -469,7 +498,7 @@
   gamewebsite: https://www.supergiantgames.com/games/bastion/
   devwebsite: https://www.supergiantgames.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Supermagical
@@ -479,17 +508,17 @@
   gamewebsite: http://www.nnooo.com/software/blastembunnies/
   devwebsite: http://www.nnooo.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Broforce
-  about: Broforce is a co-operative patriotism simulation. You play as 80's and 90's action heroes waging war against terror in almost entirely destructible nostalgic settings. 
+  about: Broforce is a co-operative patriotism simulation. You play as 80's and 90's action heroes waging war against terror in almost entirely destructible nostalgic settings.
   gerne: Action
   image: http://i.imgur.com/wg41y95.png
   gamewebsite: http://www.freelives.net/broforce-game
   devwebsite: http://www.freelives.net/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Broken Age The Complete Adventure
@@ -499,7 +528,7 @@
   gamewebsite: http://www.brokenagegame.com
   devwebsite: http://www.doublefine.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Spectra 8bit Racing
@@ -509,7 +538,7 @@
   gamewebsite: http://www.spectragame.com
   devwebsite: http://gatewayinteractive.co.uk
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Outpost 13
@@ -519,7 +548,7 @@
   gamewebsite: http://hallmax.wix.com/cantinagames
   devwebsite: http://hallmax.wix.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Krinkle Krusher
@@ -529,7 +558,7 @@
   gamewebsite: http://www.krinklekrusher.com
   devwebsite: http://www.ilusis.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Skullgirls Encore
@@ -539,7 +568,7 @@
   gamewebsite: http://skullgirls.com
   devwebsite: http://www.autumngames.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Shu
@@ -549,7 +578,7 @@
   gamewebsite: http://coatsink.com/games/shu
   devwebsite: http://coatsink.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Mighty No. 9
@@ -559,7 +588,7 @@
   gamewebsite: http://www.mightyno9.com
   devwebsite: http://www.comcept.co.jp/en/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Color Guardians
@@ -567,9 +596,9 @@
   gerne: Action
   image: http://i.imgur.com/Ldup1iu.jpeg
   gamewebsite: http://colorguardians.com
-  devwebsite: 
+  devwebsite:
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Cosmic Star Heroine
@@ -579,7 +608,7 @@
   gamewebsite: http://zeboyd.com
   devwebsite: http://zeboyd.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Desert Ashes
@@ -589,17 +618,17 @@
   gamewebsite: http://www.ninetalesdigital.com/desertashes/
   devwebsite: http://www.ninetalesdigital.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: EarthNight
-  about: DRAGONS HAVE TAKEN OVER THE EARTH It's up to a 14 year old high-schooler and an unemployed photographer to stop them. 
+  about: DRAGONS HAVE TAKEN OVER THE EARTH It's up to a 14 year old high-schooler and an unemployed photographer to stop them.
   gerne: Adventure
   image: http://i.imgur.com/l6T6qbE.png
   gamewebsite: http://www.cleaversoft.com
   devwebsite: http://www.cleaversoft.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Flame Over
@@ -609,17 +638,17 @@
   gamewebsite: http://www.laughingjackal.co.uk/games/flame-over
   devwebsite: http://www.laughingjackal.co.uk
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: forma.8
-  about: In a distant future, the small exploration probe forma.8 is stranded alone on the surface of an alien planet. It will face great perils, discover ancient civilisations and dystopian visions. 
+  about: In a distant future, the small exploration probe forma.8 is stranded alone on the surface of an alien planet. It will face great perils, discover ancient civilisations and dystopian visions.
   gerne: Adventure
   image: http://i.imgur.com/R9sRxLD.jpeg
   gamewebsite: http://www.forma8.net
   devwebsite: http://mixedbag.it
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Foul Play
@@ -629,17 +658,17 @@
   gamewebsite: http://www.devolverdigital.com/games/view/foul-play
   devwebsite: http://www.mediatonicgames.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: GALAK-Z The Dimensional
-  about: AN ADVANCED, OPEN-WORLD SPACE SHOOTER COMING SOON FOR PS4 AND WINDOWS!
+  about: Galak-Z: The Dimensional is a modern, A.I. and physics-driven open-world space shooter.
   gerne: Shooter
   image: http://i.imgur.com/MNYpKqP.jpeg
   gamewebsite: http://17-bit.com/galakz
   devwebsite: http://17-bit.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Gunship X
@@ -649,7 +678,7 @@
   gamewebsite: http://gunshipx.com
   devwebsite: http://wellformedpixels.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Klaus
@@ -659,7 +688,7 @@
   gamewebsite: http://la-cosa.net/#work
   devwebsite: http://la-cosa.net
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Kodoku
@@ -669,17 +698,17 @@
   gamewebsite: http://www.carnivorestudio.com/kodoku/
   devwebsite: http://www.carnivorestudio.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Kyn
-  about: AN ACTION PACKED RPG COMING TO YOUR PC
+  about: Kyn is a singleplayer video game that mixes exciting team combat with an engrossing world worth exploring. Control powerful warriors in tactical combat built on making smart decisions in tough situations
   gerne: RPG
   image: http://i.imgur.com/J8C65Gz.jpeg
   gamewebsite: http://vsevil.net/Kodoku
   devwebsite: http://vsevil.net/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Legend of Raven
@@ -689,7 +718,7 @@
   gamewebsite: http://nicalis.com/legendofraven/
   devwebsite: http://nicalis.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: MechRunner
@@ -699,7 +728,7 @@
   gamewebsite: http://www.mechrunner.com
   devwebsite: http://www.sparkpluggames.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Not a Hero
@@ -709,7 +738,7 @@
   gamewebsite: http://www.devolverdigital.com/games/view/not-a-hero
   devwebsite: http://www.roll7.co.uk
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: One Way Trip
@@ -719,17 +748,17 @@
   gamewebsite: https://www.youtube.com/watch?v=AauIfwEVf8w
   devwebsite: https://www.youtube.com/watch?v=AauIfwEVf8w
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Ray’s The Dead
-  about: In Ray’s The Dead, you take on the role of Ray, the newly arisen zombie! In this single player, story driven Action-Stealth-Puzzler, join Ray as he makes the most unlikely friendships 
+  about: In Ray’s The Dead, you take on the role of Ray, the newly arisen zombie! In this single player, story driven Action-Stealth-Puzzler, join Ray as he makes the most unlikely friendships
   gerne: Puzzle
   image: http://i.imgur.com/BdMcPRZ.png
   gamewebsite: http://ragtagstudio.com/?page_id=457
   devwebsite: http://ragtagstudio.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Salt and Sanctuary
@@ -739,7 +768,7 @@
   gamewebsite: http://www.ska-studios.com/salt/
   devwebsite: http://ska-studios.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Soft Body
@@ -749,37 +778,37 @@
   gamewebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
   devwebsite: http://steamcommunity.com/sharedfiles/filedetails/?id=275386565
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Starbound
-  about: In Starbound, you take on the role of a character who’s just fled from their home planet, only to crash-land on another. 
+  about: In Starbound, you take on the role of a character who’s just fled from their home planet, only to crash-land on another.
   gerne: Adventure
   image: http://i.imgur.com/wtRieCM.gif
   gamewebsite: http://playstarbound.com
   devwebsite: http://chucklefish.org
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: SteamWorld Heist
-  about: SteamWorld Heist is a game about space adventures and survival. Recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world. 
+  about: SteamWorld Heist is a game about space adventures and survival. Recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world.
   gerne: Adventure
   image: http://i.imgur.com/BsuUxn9.jpeg
   gamewebsite: http://steamworldgames.com/heist/
   devwebsite: http://steamworldgames.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Super Exploding Zoo
-  about: Fuelled by hunger and convenience of the planet, the greedy aliens have landed at the Zoo System to feast on delicious eggs. 
+  about: Fuelled by hunger and convenience of the planet, the greedy aliens have landed at the Zoo System to feast on delicious eggs.
   gerne: Action
   image: http://i.imgur.com/ha5BfNH.jpeg
   gamewebsite: http://www.superexplodingzoo.com
   devwebsite: http://www.honeyslug.com
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: To Leave
@@ -789,7 +818,7 @@
   gamewebsite: http://freakycreations.net
   devwebsite: http://freakycreations.net
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Volume
@@ -799,7 +828,7 @@
   gamewebsite: http://www.mikebithellgames.com/volume/
   devwebsite: http://www.mikebithellgames.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Badland
@@ -809,7 +838,7 @@
   gamewebsite: http://www.badlandgame.com
   devwebsite: http://www.badlandgame.com/badland-game/
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Bigfest
@@ -819,7 +848,7 @@
   gamewebsite: http://uk.playstation.com/bigfest/
   devwebsite: http://playstation.com/
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Chroma Squad
@@ -829,17 +858,17 @@
   gamewebsite: http://www.chromasquad.com
   devwebsite: http://beholdstudios.com.br
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Helldivers
-  about: “The upcoming game HELLDIVERS is a topdown shooter set in a satirical dystopian future where mankind is ruled by a managed democracy. 
+  about: “The upcoming game HELLDIVERS is a topdown shooter set in a satirical dystopian future where mankind is ruled by a managed democracy.
   gerne: Shooter
   image: http://i.imgur.com/lWMMBfx.jpeg
   gamewebsite: http://arrowheadgamestudios.com/games/
   devwebsite: http://arrowheadgamestudios.com
   dateadd: 2015-03-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Hotline Miami 2 Wrong Number
@@ -849,7 +878,7 @@
   gamewebsite: http://www.dennaton.com
   devwebsite: http://www.devolverdigital.com/games/view/hotline-miami-2-wrong-number
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: J-Stars Victory VS+
@@ -859,7 +888,7 @@
   gamewebsite: http://www.bandaigames.channel.or.jp/list/jump45/pc/
   devwebsite: http://www.spike-chunsoft.co.jp/company_e/information.html
   dateadd: 2015-02-13
-  releasedate: 
+  releasedate:
   western: true
 
 - name: LEGO Avengers
@@ -869,7 +898,7 @@
   gamewebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
   devwebsite: http://marvelsuperheroes.lego.com/en-us/default.aspx
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: LEGO Jurassic World
@@ -879,7 +908,7 @@
   gamewebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
   devwebsite: https://www.youtube.com/watch?v=OEIbqD5jnRw
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Metal Slug 3
@@ -889,7 +918,7 @@
   gamewebsite: http://game.snkplaymore.co.jp/game/steam/metalslug3/
   devwebsite: http://www.snkplaymore.co.jp/us/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: MilitAnt
@@ -899,7 +928,7 @@
   gamewebsite: http://www.militantgame.com
   devwebsite: http://www.xibalbastudios.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Murasaki Mist
@@ -909,7 +938,7 @@
   gamewebsite: http://hollowgames.com.mx/murasaki-mist/
   devwebsite: http://hollowgames.com.mx/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Ninjin Clash of Carrots
@@ -919,7 +948,7 @@
   gamewebsite: http://www.pocket-trap.com/clash-of-carrots.html
   devwebsite: http://www.pocket-trap.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Nuclear Throne
@@ -929,7 +958,7 @@
   gamewebsite: http://nuclearthrone.com
   devwebsite: http://vlambeer.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: One Piece Pirate Warriors 3
@@ -939,17 +968,17 @@
   gamewebsite: http://www.bandaigames.channel.or.jp/list/opm/pc/?
   devwebsite: http://www.bandainamcogames.co.jp
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Shovel Knight
-  about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games. 
+  about: Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic created by Yacht Club Games.
   gerne: Adventure
   image: http://i.imgur.com/I0oJikt.jpeg
   gamewebsite: http://yachtclubgames.com/shovel-knight/
   devwebsite: http://yachtclubgames.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Starwhal
@@ -959,7 +988,7 @@
   gamewebsite: http://www.starwhal.com
   devwebsite: http://breakfall.ca
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Ultratron
@@ -969,7 +998,7 @@
   gamewebsite: http://www.puppygames.net/ultratron/
   devwebsite: http://www.puppygames.net/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Energy Hook
@@ -979,7 +1008,7 @@
   gamewebsite: http://www.happionlabs.com/energy-hook/
   devwebsite: http://www.happionlabs.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Nova-111 A Cosmic Voyage
@@ -989,7 +1018,7 @@
   gamewebsite: http://www.nova111.com
   devwebsite: http://funktroniclabs.com
   dateadd: 2015-03-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Fenix Rage
@@ -999,17 +1028,17 @@
   gamewebsite: http://www.fenixrage.com
   devwebsite: http://greenlavastudios.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Wild Season
-  about: Congratulations! After weeks of being down on your luck in the big city, youve found your calling farming! 
+  about: Congratulations! After weeks of being down on your luck in the big city, youve found your calling farming!
   gerne: Puzzle
   image: http://i.imgur.com/M3cG8Nd.jpeg
   gamewebsite: http://quickfire-games.com/wild-season/
   devwebsite: http://quickfire-games.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Roundabout
@@ -1019,7 +1048,7 @@
   gamewebsite: http://roundaboutgame.com
   devwebsite: http://nogoblin.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: We Are Doomed!
@@ -1029,9 +1058,9 @@
   gamewebsite: http://www.vertexpop.com/wearedoomed/
   devwebsite: http://www.vertexpop.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
-  
+
 - name: Hatoful Boyfriend
   about: Congratulations! You’ve been accepted as the only human student at the prestigious St. PigeoNation’s Institute, a school for talented pigeons.
   gerne: Sim
@@ -1039,7 +1068,7 @@
   gamewebsite: http://www.mediatonicgames.com/hatoful-boyfriend
   devwebsite: http://www.mediatonicgames.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Poncho
@@ -1049,7 +1078,7 @@
   gamewebsite: http://poncho-game.com
   devwebsite: http://poncho-game.com/?page_id=7
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Project Root
@@ -1059,17 +1088,17 @@
   gamewebsite: http://www.opqam.com
   devwebsite: http://opqam.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Space Hulk Ascension
-  about: Space Hulk Ascension Edition is a 3D, digital, turn based, strategy game, which builds upon the classic board game experience, and adds new RPG style mechanics, additional weapons, enemy types, an all-new chapter and loads of other new features. 
+  about: Space Hulk Ascension Edition is a 3D, digital, turn based, strategy game, which builds upon the classic board game experience, and adds new RPG style mechanics, additional weapons, enemy types, an all-new chapter and loads of other new features.
   gerne: trategy
   image: http://i.imgur.com/IwtB2iV.png
   gamewebsite: http://www.spacehulk-ascension.com
   devwebsite: http://www.spacehulk-ascension.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Geometry Wars 3 Dimensions
@@ -1079,7 +1108,7 @@
   gamewebsite: http://www.sierra.com/geometrywars
   devwebsite: http://www.sierra.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 
@@ -1090,7 +1119,7 @@
   gamewebsite: http://www.darkestdungeon.com
   devwebsite: http://www.darkestdungeon.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Super Time Force Ultra
@@ -1100,27 +1129,27 @@
   gamewebsite: http://supertimeforce.com
   devwebsite: http://www.capybaragames.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Day of the Tentacle Special Edition
-  about: 
+  about:
   gerne: Adventure
   image: http://i.imgur.com/rlKDME4.png
   gamewebsite: http://www.doublefine.com/games
   devwebsite: http://www.doublefine.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: The Banner Saga
-  about: The Banner Saga is an epic role-playing game inspired by Viking legend. 
+  about: The Banner Saga is an epic role-playing game inspired by Viking legend.
   gerne: RPG
   image: http://i.imgur.com/un2UCt5.jpeg
   gamewebsite: http://stoicstudio.com
   devwebsite: http://stoicstudio.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Project Scissors
@@ -1130,7 +1159,7 @@
   gamewebsite: http://www.night-cry.com
   devwebsite: http://www.playism-games.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Project Light
@@ -1140,7 +1169,7 @@
   gamewebsite: http://neko.works/index.php?static=projectlight
   devwebsite: http://neko.works/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Robonauts
@@ -1150,7 +1179,7 @@
   gamewebsite: http://www.qubicgames.com/en/robonauts
   devwebsite: http://www.qubicgames.com/en/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: 2 Fast 4 Gnomz
@@ -1160,7 +1189,7 @@
   gamewebsite: http://www.qubicgames.com/en/2-fast-4-gnomz
   devwebsite: http://www.qubicgames.com/en/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Air Race Speed
@@ -1170,7 +1199,7 @@
   gamewebsite: http://www.airacespeed.com
   devwebsite: http://www.qubicgames.com/en/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Hyperdimension Neptunia U
@@ -1180,7 +1209,7 @@
   gamewebsite: http://ideafintl.com/neptunia-u/
   devwebsite: http://ideafintl.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Ethereal
@@ -1190,37 +1219,37 @@
   gamewebsite: http://www.etherealgame.net/
   devwebsite: http://forums.tigsource.com/index.php?topic=35342.0
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
-- name: Betty Boop Bop 
+- name: Betty Boop Bop
   about: Betty Boop Bop is a music game designed for multi-touch devices. Out now on iOS Android and coming soon to PS Vita. Click on the links to get the game now!
   gerne: Rhythm
   image: http://i.imgur.com/0kQB074.jpeg
   gamewebsite: http://fowlmoon.com/bbb
   devwebsite: http://fowlmoon.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: A.N.N.E
-  about: A.N.N.E is an exciting game blending platforming and a shootem up gameplay with a touch of RPG elements. 
+  about: A.N.N.E is an exciting game blending platforming and a shootem up gameplay with a touch of RPG elements.
   gerne: Shootem up
   image: http://i.imgur.com/EFw5KMB.jpeg
-  gamewebsite: http://annethegame.blogspot.nl 
+  gamewebsite: http://annethegame.blogspot.nl
   devwebsite: http://www.gamesbymo.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:
   western: true
 
 - name: 99bricks
   about: 99 Bricks Wizard Academy is a fun and fast paced endless physics builder.
   gerne: Puzzle
   image: http://i.imgur.com/ZeIVTTy.jpg
-  gamewebsite: http://99bricks.net  
+  gamewebsite: http://99bricks.net
   devwebsite: http://weirdbeard.nl
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: Moon Hunters
@@ -1230,7 +1259,7 @@
   gamewebsite: http://www.moonhuntersgame.com
   devwebsite: http://www.kitfoxgames.com
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 
@@ -1241,17 +1270,17 @@
   gamewebsite: http://www.driftstagegame.com
   devwebsite: http://www.driftstagegame.com
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
-- name: Scram Kitty DX 
+- name: Scram Kitty DX
   about: enhanced version of last years critical hit Scram Kitty and his Buddy on Rails
   gerne: Action
   image: http://i.imgur.com/bTssTHI.png
   gamewebsite: http://www.dakkodakko.com/site/
   devwebsite: http://www.dakkodakko.com/site/
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
 
 - name: World Rally Championship (WRC) 5
@@ -1261,5 +1290,5 @@
   gamewebsite: http://www.badlandgame.com
   devwebsite: http://www.wrc.com/en/
   dateadd: 2015-02-11
-  releasedate: 
+  releasedate:
   western: true
